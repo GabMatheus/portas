@@ -1,0 +1,207 @@
+Ao configurar um firewall muitas vezes surge a dúvida sobre que porta corresponde 
+a um dado serviço, e vice-versa. Segue abaixo um lista com portas TCP/UDP e seu 
+respectivo serviço padrão.
+
+21 TCP FTP
+21 UDP FTP
+22 TCP SSH
+22 UDP SSH
+23 TCP Telnet
+23 UDP Telnet
+25 TCP SMTP
+25 UDP SMTP
+66 TCP Oracle SQLNet
+66 UDP Oracle SQLNet
+79 TCP Finger
+79 UDP Finger
+80 TCP HTTP - Web Aliens vs. Predator
+80 UDP HTTP - Web
+107 TCP Remote Telnet Service
+107 UDP Remote Telnet Service
+110 TCP POP3
+110 UDP POP3
+118 TCP SQL Services
+118 UDP SQL Services
+119 TCP NNTP - Grupos de Noticias
+119 UDP NNTP - Grupos de Noticias
+137 TCP NetBios Name Service
+137 UDP NetBios Name Service
+138 TCP NetBios Datagram Service
+138 UDP NetBios Datagram Service
+139 TCP NetBios Session Service
+139 UDP NetBios Session Service
+150 TCP SQL-Net
+150 UDP SQL-Net
+161 TCP Snmp
+194 TCP Internet Relay Chat
+194 UDP Internet Relay Chat
+209 TCP Quick Mail Protocol
+209 UDP Quick Mail Protocol
+217 TCP dBASE Unix
+217 UDP dBASE Unix
+389 TCP NetMeeting
+407 TCP Timbuktu pro
+407 UDP Timbuktu pro
+443 TCP HttpS
+445 TCP Microsoft-Ds (compartilhar arquivos no Windows 2000)
+515 TCP printer
+522 TCP NetMeeting
+531 TCP Conference
+531 UDP Conference
+568 TCP Microsoft Shuttle
+568 UDP Microsoft Shuttle
+569 TCP Microsoft Rome
+569 UDP Microsoft Rome
+666 TCP doom ID Software
+666 UDP doom ID Software
+700 UDP Buddy Phone
+701 UDP Buddy Phone
+992 TCP Telnet SSL
+992 UDP Telnet SSL
+993 TCP IMAP4 SSL
+993 UDP IMAP4 SSL
+995 TCP POP3 SSL
+995 UDP POP3 SSl
+1024 - 5000 TCP Dwyco Video Conferencing
+1414 UDP CuSeeMe
+1417 TCP Timbuktu pro
+1417 UDP Timbuktu pro
+1418 TCP Timbuktu pro
+1418 UDP Timbuktu pro
+1419 TCP Timbuktu pro
+1419 UDP Timbuktu pro
+1420 TCP Timbuktu pro
+1420 UDP Timbuktu pro
+1424 UDP CuSeeMe
+1503 TCP NetMeeting CuSeeMe
+1547 TCP LapLink
+1720 TCP NetMeeting CuSeeMe
+1731 TCP NetMeeting
+1812 UDP CuSeeMe
+1813 UDP CuSeeMe
+2300 TCP Everquest
+2300 UDP Everquest Age of Empires
+2300 - 2400 TCP Battlecom
+2300 - 2400 UDP Battlecom Aliens vs. Predator
+2301 TCP Age of Empires
+2301 UDP Age of Empires
+2302 TCP Age of Empires
+2302 UDP Age of Empires
+2303 TCP Age of Empires
+2303 UDP Age of Empires
+2304 TCP Age of Empires
+2304 UDP Age of Empires
+2305 TCP Age of Empires
+2305 UDP Age of Empires
+2306 TCP Age of Empires
+2306 UDP Age of Empires
+2307 TCP Age of Empires
+2307 UDP Age of Empires
+2308 TCP Age of Empires
+2308 UDP Age of Empires
+2309 TCP Age of Empires
+2309 UDP Age of Empires
+2310 TCP Age of Empires
+2310 UDP Age of Empires
+2311 TCP Age of Empires
+2311 UDP Age of Empires
+2400 TCP Everquest Age of Empires
+2611 TCP Black and White
+2612 TCP Black and White
+3000 TCP Active Worlds
+3000 UDP Calista IP phone (saliente)
+3100 - 3999 TCP Delta Force
+3100 - 3999 UDP Delta Force
+3128 TCP Squid Proxy
+2301 TCP Age of Empires
+3389 TCP Windows 2000 Terminal Server
+3389 UDP Windows 2000 Terminal Server
+3568 UDP Delta Force 2
+3569 UDP Delta Force 2
+4000 TCP Diablo II ICQ
+4099 TCP AIM Talk
+4661 TCP Edonkey 2000
+4662 TCP Edonkey 2000 Overnet
+4662 UDP Overnet
+4665 UDP Edonkey 2000
+5190 TCP Calista IP phone (entrante)
+5500 TCP Virtual Network Computing
+3568 UDP Delta Force
+5631 TCP pcAnyWhere (host)
+5632 UDP pcAnyWhere (host)
+5670 TCP Active Worlds
+5800 TCP Virtual Network Computing
+5900 TCP Virtual Network Computing
+6003 UDP Half Life
+6112 TCP Diablo II
+6112 UDP Diablo II
+6112 TCP StarCraft
+6112 UDP StarCraft
+6257 UDP WinMX
+6346 TCP SwapNut
+6346 UDP SwapNut
+6500 TCP Black and White
+6667 TCP Ircd Black and White MSN Game Zone
+6699 TCP WinMX
+6700 - 6702 TCP Dwyco Video Conferencing
+6880 TCP Dwyco Video Conferencin
+6891 TCP MSN Messenger (archivos)
+6892 TCP MSN Messenger (archivos)
+6893 TCP MSN Messenger (archivos)
+6894 TCP MSN Messenger (archivos)
+6895 TCP MSN Messenger (archivos)
+6896 TCP MSN Messenger (archivos)
+6897 TCP MSN Messenger (archivos)
+6898 TCP MSN Messenger (archivos)
+6899 TCP MSN Messenger (archivos)
+6900 TCP MSN Messenger (archivos)
+6901 TCP MSN Messenger (voz)
+6901 TCP MSN Messenger (voz)
+7000-7100 TCP Active Worlds
+7002 UDP Half Life
+7013 TCP Anarchy Online
+7013 UDP Anarchy Online
+7500 - 7501 TCP Anarchy Online
+7500 - 7501 UDP Anarchy Online
+7640 TCP CuSeeMe
+7642 TCP CuSeeMe
+7648 UDP CuSeeMe
+7648 TCP CuSeeMe
+7649 TCP CuSeeMe
+7777 UDP Unreal Tournament (cliente) Active Worlds
+7778 UDP Unreal Tournament (servidor)
+7779 UDP Unreal Tournament
+7780 UDP Unreal Tournament
+7781 UDP Unreal Tournament
+8000 - 8999 UDP Aliens vs. Predator
+8080 TCP Unreal Tournament (UT Server Admin) HTTP Proxy
+9000 UDP Asheron's Call
+9004 UDP Asheron's Call
+9005 UDP Asheron's Call
+9008 UDP Asheron's Call
+9012 UDP Asheron's Call
+9013 UDP Asheron's Call
+12000 - 16090 UDP Dwyco Video Conferencing
+12053 TCP Delta Three PC to Phone
+12083 TCP Delta Three PC to Phone
+12080 UDP Delta Three PC to Phone
+12120 UDP Delta Three PC to Phone
+12122 UDP Delta Three PC to Phone
+20000 - 20019 TCP ICQ
+24150 - 24179 UDP Delta Three PC to Phone
+26000 UDP Elite Force
+26214 TCP Dark Reign 2
+26214 UDP Dark Reign 2
+27015 UDP COUNTER STRIKE
+27500 UDP Unreal Tournament (uplink) Elite Force
+27660 UDP Quake III (primer jugador)
+27661 UDP Quake III (segundo jugador)
+27662 UDP Quake III (tercer jugador)...
+27900 UDP Unreal Tournament (uplink) Black and White
+27910 UDP Elite Force
+27960 UDP Elite Force
+28800 - 29000 TCP MSN Game Zone
+47624 TCP Battlecom
+47624 UDP Battlecom
+56800 UDP CuSeeMe 
+
